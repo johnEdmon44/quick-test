@@ -1,3 +1,6 @@
+[Demo Link](https://65bb99b7b3ac8a050f57b889--jocular-marshmallow-96cdc2.netlify.app/)
+
+
 # Front-end Developer Quick Test
 
 We've designed a simple test to evaluate your proficiency in translating designs into HTML/CSS. If you can use Tailwind CSS and make minimal custom CSS changes, it's a big advantage.
@@ -12,4 +15,4 @@ We've designed a simple test to evaluate your proficiency in translating designs
 
 ## Design
 
-![Design](./public/Design.png);
+![Design](./public/Design.png)
