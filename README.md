@@ -11,3 +11,5 @@ We've designed a simple test to evaluate your proficiency in translating designs
 5. Find any similar icons or slice the icon from the design. Icons can be SVG/PNG/JPG or font icons.
 
 ## Design
+
+![Design](./public/Design.png);
